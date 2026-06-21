@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+scikit-learn
+joblib
+torch
+torchvision
+# If you have CUDA, install torch/torchvision from https://pytorch.org
